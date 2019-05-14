@@ -1,0 +1,10 @@
+Gescoord 
+OwnGoal 
+SchotTussenDePalen 
+SchotNaast
+Assist 
+Overtreding 
+GeleKaart 
+RodeKaart 
+
+
